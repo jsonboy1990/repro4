@@ -10,4 +10,7 @@ public class HelloWorld {
     public  void  test(){
 
     }
+    public  void  test2(){
+
+    }
 }
