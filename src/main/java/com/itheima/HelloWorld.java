@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("测试idea");
         System.out.println("测试idea");
         System.out.println("测试idea");
+        System.out.println("测试idea");
     }
     public  void  test(){
 
